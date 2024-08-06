@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Usman</h1>
-<h3 align="center">A passionate full-stack software developer</h3>
+<h3 align="center">[In progress]</h3>
 
 - 📫 How to reach me **usmantariq65@outlook.com**
 
